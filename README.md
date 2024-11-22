@@ -8,6 +8,7 @@
 
 
 ## Running Chronos: Baseline vs. Naive RAF Performance Comparison
+This codebase is built on top of the main [Chronos Forecasting GitHub repository](https://github.com/amazon-science/chronos-forecasting). For more details and updates, please refer to the official Chronos forecasting repository.
 
 - For the baseline approach, run `run_chronos.py`:
     ```
